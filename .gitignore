@@ -1,3 +1,5 @@
 generate/img/
 img/
 data/uaset_extended_with_scale_factor_and_3x3_blure.csv
+data/uaset_extended_lower_case_size_reduction.csv
+data/uaset_extended_lower_case.csv
